@@ -6,7 +6,7 @@
 
 ## Project Summary
 
-This project develops an end-to-end AI system for early sepsis prediction using ICU time-series data. Built independently as a third-year B.Tech student, the pipeline covers the full machine learning lifecycle from raw heterogeneous hospital data to interpretable deep learning models capable of predicting sepsis risk multiple hours in advance.
+This project develops an end-to-end AI system for early sepsis prediction using ICU time-series data. The pipeline covers the complete machine learning lifecycle, including data integration, exploratory analysis, temporal feature engineering, explainable machine learning, deep learning-based sequence modelling, and multi-horizon forecasting for early clinical risk prediction.
 
 The workflow includes:
 
